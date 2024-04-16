@@ -1,8 +1,4 @@
 # WEB-SCRAPPING-USING-PYTHON
-.
-.
-.
-Description
 
 This project demonstrates the process of web scraping data from a public website using Python's requests and BeautifulSoup libraries. The specific goal is to extract a table from a Wikipedia page and convert it into a structured pandas DataFrame for further analysis or manipulation.
 
